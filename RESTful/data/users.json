@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1727964801004,
+        "email": "user@example.com",
+        "password": "$2a$10$URaIz9/i99s96SmTujAwju9yRJiRTYm7yUuRGI93SFRK1fCClyAS.",
+        "name": "user01",
+        "isSubscriptionOn": true
+    }
+]
